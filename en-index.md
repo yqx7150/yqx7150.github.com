@@ -48,7 +48,7 @@
 
 - 09/2006–03/2009：Master of science, Shanghai Jiao Tong University, computational mathematics. 
 
-- 09/2001–07/2005： Bachelor of science, Gannan Normal University, applied mathematics. 
+- 09/2001–07/2005：Bachelor of science, Gannan Normal University, applied mathematics. 
 
 
 
