@@ -1,4 +1,6 @@
-
+<div style="float:right">
+<p><b><a href="/en-index.html">english-version</a></b></p>
+</div>
 
 <div >
 <table >
