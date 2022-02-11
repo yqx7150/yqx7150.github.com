@@ -8,10 +8,12 @@
     <td width="75%">
       <h1>Liu Qiegen</h1>
       <p><b>Professor/Doctoral tutor</b></p>
-      <p><b>Deputy dean of information engineering college and Artificial intelligence Industrial Research Institute</b></p>
+      <p><b>Vice President of the School of Information Engineering</b></p>
+      <p><b>Vice President of the Artificial Intelligence Industry Research Institute</b></p>
       <p><b>Nanchang University</b></p>
       <p><b>Office: Room A606, Information Engineering Building</b></p>
       <p><b>Email: liuqiegen@ncu.edu.cn, liuqiegen@hotmail.com</b></p>
+      <p><b>Imaging and visual representation Laboratory: https://www.labxing.com/lab/1018/home</b></p>
       <p><b>Phone Number: 13732908412</b></p>
     </td>
     <td width="25%" >
@@ -64,14 +66,14 @@
 
 [1] Q. Liu, H. Leung. Variable augmented neural network for decolorization and multi-exposure fusion,Information Fusion,vol. 46, pp.114-127, 2019. 
 
-[2] M. Zhang, M. Li, J. Zhou, Y, Zhu, S. Wang, D. Liang*,  Y. Chen, Q. Liu*. High-dimensional embedding network derived prior for compressive sensing MRI reconstruction, Med. Image Anal.,  vol. 64, 101717, 2020. 
+[2] M. Zhang, M. Li, J. Zhou, Y, Zhu, S. Wang, D. Liang,  Y. Chen, Q. Liu. High-dimensional embedding network derived prior for compressive sensing MRI reconstruction, Med. Image Anal.,  vol. 64, 101717, 2020. 
 
-[3] S. Li, B. Qin, Q. Liu*,  Y. Wang, D. Liang*,  Multi-channel and multi-model based autoencoding prior for grayscale image restoration, IEEE Trans. Image Process.,  vol. 29, 142-156, 2020. 
+[3] S. Li, B. Qin, Q. Liu,  Y. Wang, D. Liang,  Multi-channel and multi-model based autoencoding prior for grayscale image restoration, IEEE Trans. Image Process.,  vol. 29, 142-156, 2020. 
 
-[4] Q. Liu, Q. Yang, H. Cheng, S. Wang, M. Zhang, D. Liang*,  Highly undersampled magnetic resonance imaging
+[4] Q. Liu, Q. Yang, H. Cheng, S. Wang, M. Zhang, D. Liang,  Highly undersampled magnetic resonance imaging
 reconstruction using autoencoding priors, Magn. Reson. Med.,  vol. 83, no. 1, pp. 322-336, 2020. 
 
-[5] F. Zhang, M. Zhang, B. Qin, Y. Zhang, Z. Xu, D. Liang, Q. Liu*,  REDAEP: Robust and enhanced denoising autoencodingprior for sparse-view CT reconstruction, IEEE Trans. Radiat. Plasma Med. Sci.,  2020.
+[5] F. Zhang, M. Zhang, B. Qin, Y. Zhang, Z. Xu, D. Liang, Q. Liu,  REDAEP: Robust and enhanced denoising autoencodingprior for sparse-view CT reconstruction, IEEE Trans. Radiat. Plasma Med. Sci.,  2020.
 
 [6] Q. Liu, K. Yang, J. Luo, Y. Zhu, D. Liang. Highly undersampled magnetic resonance image reconstruction using two-levelBregman method with dictionary updating, IEEE Trans. Med. Imag.,  32 (7): 1290-1301, 2013.
 
@@ -87,13 +89,13 @@ reconstruction using autoencoding priors, Magn. Reson. Med.,  vol. 83, no. 1, pp
 
 [12] Q. Liu, J. Liu, P. Dong, D. Liang. SGTD: Structure gradient and texture decorrelating regularization for image decomposition, The IEEE International Conference on Computer Vision (ICCV),  1081-1088, 2013.
 
-[13] B. Xiong#,  Q. Liu#,  J. Xiong, S. Li, S. Wang, D. Liang. Field-of-Experts filters guided tensor completion, IEEE Trans. Multimedia, vol. 20, no. 9, pp. 2316-2329, 2018. 
+[13] B. Xiong,  Q. Liu,  J. Xiong, S. Li, S. Wang, D. Liang. Field-of-Experts filters guided tensor completion, IEEE Trans. Multimedia, vol. 20, no. 9, pp. 2316-2329, 2018. 
 
-[14] Y. Liu#,  Q. Liu#,  M. Zhang, Q. Yang, S. Wang, D. Liang. IFR-Net: Iterative feature refinement network for compressed sensing MRI, IEEE Trans. Comput. Imag.,  vol. 6, pp. 434-446, 2020. 
+[14] Y. Liu,  Q. Liu,  M. Zhang, Q. Yang, S. Wang, D. Liang. IFR-Net: Iterative feature refinement network for compressed sensing MRI, IEEE Trans. Comput. Imag.,  vol. 6, pp. 434-446, 2020. 
 
-[15] W. Zhao, Q. Liu, Y. Lv, B. Qin*. Texture variation adaptive image denoising with nonlocal PCA, IEEE Trans. Image Process.,  vol. 28, no. 11, pp. 5537-5551, 2019. 
+[15] W. Zhao, Q. Liu, Y. Lv, B. Qin. Texture variation adaptive image denoising with nonlocal PCA, IEEE Trans. Image Process.,  vol. 28, no. 11, pp. 5537-5551, 2019. 
 
-[16] H. Lu, S. Li, Q. Liu*,  M. Zhang. MF-LRTC: multi-filters guided low-rank tensor coding for image
+[16] H. Lu, S. Li, Q. Liu,  M. Zhang. MF-LRTC: multi-filters guided low-rank tensor coding for image
 restoration. Neurocomputing, vol. 303, pp. 88-102, 2018. 
 
 [17] J. He, Q. Liu, A.G. Christodoulou, C. Ma, F. Lam, Z.P. Liang. Accelerated high-dimensional MR imaging with sparse sampling using low-rank tensors, IEEE Trans. Med. Imag.,  32 (7): 2119-2129, 2016. 
@@ -115,7 +117,7 @@ restoration. Neurocomputing, vol. 303, pp. 88-102, 2018.
 
 [25] B. Qin, M. Jin, D. Hao, Y. Lv, Q. Liu, Y. Zhu, S. Ding, J. Zhao, B. Fei, Accurate vessel extraction via tensor completion of background layer in X-ray coronary angiogram, Pattern Recognition, 87: 38-54, 2019. 
 
-[26] S. Wang, J. Lv, Z. He, D. Liang*,  Y. Chen, M. Zhang, Q. Liu*,  Denoising auto-encoding priors in undecimated wavelet domain for MR image reconstruction, Neurocomputing, vol. 437, pp. 325-338, 2021.
+[26] S. Wang, J. Lv, Z. He, D. Liang,  Y. Chen, M. Zhang, Q. Liu,  Denoising auto-encoding priors in undecimated wavelet domain for MR image reconstruction, Neurocomputing, vol. 437, pp. 325-338, 2021.
 
 [27] C Quan, J Zhou, Y Zhu, Y Chen, S Wang, D Liang, Q. Liu, Homotopic Gradients of Generative Density Priors for MR Image Reconstruction. IEEE Trans. Med. Imag, 2021. 
 
