@@ -48,9 +48,13 @@
 ### Educational background
 
 - 10/2011–04/2012：Paul C.Lauterbur Research Center For Biomedical Imaging, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences, medical imaging.
+
 - 09/2008–04/2012：Doctor of engineering, Shanghai Jiao Tong University, biomedical engineering. 
+
 - 04/2008–10/2008：CAS-MPG Partner Institute for Computational Biology, bioinformatics.
+
 - 09/2006–03/2009：Master of science, Shanghai Jiao Tong University, computational mathematics. 
+
 - 09/2001–07/2005：Bachelor of science, Gannan Normal University, applied mathematics. 
 
 
