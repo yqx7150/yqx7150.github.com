@@ -10,17 +10,19 @@
       <p><b>教授/博导</b></p>
       <p><b>南昌大学信息工程学院副院长</b></p>
       <p><b>人工智能工业研究院副院长</b></p>
-      <p><b>办公室：信工楼A606</b></p>
+      <p><b>办公室：信工楼A606      手机号：13732908412</b></p>
       <p><b>邮箱：liuqiegen@ncu.edu.cn、liuqiegen@hotmail.com</b></p>
       <p><b>成像与视觉表示实验室：https://www.labxing.com/lab/1018/home</b></p>
-      <p><b>手机号：13732908412</b></p>
-    </td>
-    <td width="25%" >
-      <img src="/zhengjianzhao.jpg" width="100%">
-    </td>
-  </tr>
+      <p><b>Google学术：https://scholar.google.com/citations?user=T00zMvIAAAAJ&hl=zh-CN</b></p>
+        </td>
+<td width="25%" >
+  <img src="/zhengjianzhao.jpg" width="100%">
+</td>
+ </tr>
 </table>
 </div>
+
+
 
 
 ### 工作实践
@@ -45,10 +47,10 @@
 
 ### 教育背景
 
+- 10/2011–04/2012： 中国科学院深圳先进技术研究院劳伯特医学成像研究中心，医学成像。
 - 09/2008–04/2012：上海交通大学工学博士，生物医学工程。
-
+- 04/2008–10/2008： 中国科学院－德国马普学会计算生物学伙伴研究所，生物信息学。
 - 09/2006–03/2009：上海交通大学理学硕士，计算数学。
-
 - 09/2001–07/2005： 赣南师范大学理学学士，应用数学。
 
 
