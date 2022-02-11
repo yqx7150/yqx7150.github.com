@@ -11,10 +11,11 @@
       <p><b>Vice President of the School of Information Engineering</b></p>
       <p><b>Vice President of the Artificial Intelligence Industry Research Institute</b></p>
       <p><b>Nanchang University</b></p>
-      <p><b>Office: Room A606, Information Engineering Building</b></p>
+      <p><b>Office: Room A606, Information Engineering Building </b></p>
+      <p><b>Phone Number: 13732908412</b></p>
       <p><b>Email: liuqiegen@ncu.edu.cn, liuqiegen@hotmail.com</b></p>
       <p><b>Imaging and visual representation Laboratory: https://www.labxing.com/lab/1018/home</b></p>
-      <p><b>Phone Number: 13732908412</b></p>
+      <p><b>Google scholar：https://scholar.google.com/citations?user=T00zMvIAAAAJ&hl=zh-CN</b></p>
     </td>
     <td width="25%" >
       <img src="/zhengjianzhao.jpg" width="100%">
@@ -46,10 +47,10 @@
 
 ### Educational background
 
+- 10/2011–04/2012：Paul C.Lauterbur Research Center For Biomedical Imaging, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences, medical imaging.
 - 09/2008–04/2012：Doctor of engineering, Shanghai Jiao Tong University, biomedical engineering. 
-
+- 04/2008–10/2008：CAS-MPG Partner Institute for Computational Biology, bioinformatics.
 - 09/2006–03/2009：Master of science, Shanghai Jiao Tong University, computational mathematics. 
-
 - 09/2001–07/2005：Bachelor of science, Gannan Normal University, applied mathematics. 
 
 
