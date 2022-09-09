@@ -9,7 +9,7 @@
       <h1>刘且根</h1>
       <p><b>教授/博导</b></p>
       <p><b>南昌大学信息工程学院副院长</b></p>
-      <p><b>人工智能工业研究院副院长</b></p>
+      <p><b>人工智能工业研究院院长</b></p>
       <p><b>办公室：信工楼A606      手机号：13732908412</b></p>
       <p><b>邮箱：liuqiegen@ncu.edu.cn、liuqiegen@hotmail.com</b></p>
       <p><b>成像与视觉表示实验室：https://www.labxing.com/lab/1018/home</b></p>
