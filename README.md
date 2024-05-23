@@ -11,7 +11,7 @@
       <p><b>信息工程学院执行院长、人工智能工业研究院院长</b></p>
       <p><b>办公室：信工楼A618        手机号：13732908412</b></p>
       <p><b>邮箱：liuqiegen@ncu.edu.cn、liuqiegen@hotmail.com</b></p>
-      <p><b>成像与视觉表示实验室：https://www.labxing.com/lab/1018/home</b></p>
+      <p><b>成像与视觉表示实验室(LIVE)：https://www.labxing.com/lab/1018/home</b></p>
       <p><b>Google学术：https://scholar.google.com/citations?user=T00zMvIAAAAJ&hl=zh-CN</b></p>
         </td>
 <td width="25%" >
