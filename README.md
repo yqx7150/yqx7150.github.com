@@ -12,7 +12,7 @@
       <p><b>办公室：信工楼A618        手机号：13732908412</b></p>
       <p><b>邮箱：liuqiegen@ncu.edu.cn、liuqiegen@hotmail.com</b></p>
       <p><b>成像与视觉表示实验室(LIVE)：https://www.labxing.com/lab/1018/home</b></p> 
-      [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/yqx7150.github.com/tree/main/PPT)</b></p>
+      <p><b>[<font size=5>**[PPT]**</font>](https://github.com/yqx7150/yqx7150.github.com/tree/main/PPT)</b></p>
       <p><b>Google学术：https://scholar.google.com/citations?user=T00zMvIAAAAJ&hl=zh-CN</b></p>
         </td>
 <td width="25%" >
