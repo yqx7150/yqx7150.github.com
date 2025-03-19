@@ -33,7 +33,7 @@
 
 - 02/2015- 03/2016：美国伊利诺伊大学香槟分校(UIUC) ，博士后。
 
-  ​                                   导师 Zhipei Liang 教授， IEEE Fellow，AIMBE Fellow。
+  ​                                   导师 Zhipei Liang 教授， IEEE Fellow，AIMBE Fellow，ISMRM Fellow。
 
 - 12/2015-12/2020 ：南昌大学，副教授。
 
